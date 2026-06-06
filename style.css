@@ -1,0 +1,4 @@
+body{font-family:Arial,sans-serif;background:#090909;color:white;text-align:center}
+.hero{height:100vh;display:flex;justify-content:center;align-items:center;background:linear-gradient(135deg,#8B0000,#DC143C)}
+.glass{background:rgba(255,255,255,.1);padding:40px;border-radius:25px}
+h1{color:gold}
